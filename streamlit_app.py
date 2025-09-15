@@ -4,8 +4,8 @@ import re
 # Set the page configuration
 st.set_page_config(page_title="Scribd Link Generator", page_icon="🔗")
 
-st.title("Scribd Download Link Generator 🔗")
-st.info("This app replicates the logic from the 'Download(PDF)' function of the userscript. It generates a download link for a third-party service.")
+st.title("Scribd Download Link Generator")
+st.info("This app replicates the logic from the 'Download(PDF)' function of the userscript. It generates a download link for a third-party service. (Khusus Untuk Ut Ut)")
 
 # Get user input
 scribd_url = st.text_input(
